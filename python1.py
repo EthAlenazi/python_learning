@@ -7,20 +7,22 @@ SyntaxError: invalid syntax
 >>> print(9);
 9
 >>> print("hello , world! ");
-hello , world! 
+hello , world!
 >>> if 7 >  4 ;
 SyntaxError: invalid syntax
 >>> if 6>5:
 	print("7is greater than 5"):
-		
+
 SyntaxError: invalid syntax
 >>>  if 6>5:
 	print("7is greater than 5");
-	
+
 SyntaxError: unexpected indent
 >>> if 5>2:
 	print("five isgreater than two ");
 
-	
-five isgreater than two 
->>> 
+
+five isgreater than two
+>>> print("yasear");
+
+
